@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'pry'
+gem 'nokogiri'
+gem 'rubocop'
+gem 'rspec'
+gem 'json'
+gem 'google_drive'
